@@ -1,0 +1,86 @@
+[
+    {
+        "Name": "Sachin",
+        "Age": 40,
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Virat",
+        "Age": 30,
+        "City": "Delhi",
+        "State": "Delhi",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Rohit",
+        "Age": 32,
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Dhoni",
+        "Age": 38,
+        "City": "Ranchi",
+        "State": "Jharkhand",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Rahul",
+        "Age": 28,
+        "City": "Bangalore",
+        "State": "Karnataka",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Rishabh",
+        "Age": 22,
+        "City": "Delhi",
+        "State": "Delhi",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Hardik",
+        "Age": 26,
+        "City": "Baroda",
+        "State": "Gujarat",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Jadeja",
+        "Age": 31,
+        "City": "Jamnagar",
+        "State": "Gujarat",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Bumrah",
+        "Age": 25,
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Bhuvi",
+        "Age": 29,
+        "City": "Meerut",
+        "State": "Uttar Pradesh",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Shami",
+        "Age": 29,
+        "City": "Amroha",
+        "State": "Uttar Pradesh",
+        "Cricket Team": "India"
+    },
+    {
+        "Name": "Kuldeep",
+        "Age": 24,
+        "City": "Kanpur",
+        "State": "Uttar Pradesh"
+    }
+    
+]
